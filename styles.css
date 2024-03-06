@@ -17,11 +17,11 @@ p {
 }
 .divD {
     width: 50%; 
-    height: 50%vh; 
+    height: 50vh; 
     background-color: rgb(9, 187, 12);
 }
 .divE {
-    width: 25%vw; 
+    width: 25vw; 
     height: 70%; 
     background-color: rgb(14, 117, 123);
 }
